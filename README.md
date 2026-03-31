@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hey, I'm Zagrosi
-
-**AI Product Engineer & Banking Operations Specialist**
-
-London, UK
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Zagrosi;AI+Product+Engineer;Fintech+%7C+Distributed+Systems+%7C+Security" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fzgrs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zgrs)
 
@@ -60,6 +56,14 @@ I build things at the intersection of **finance**, **AI**, and **distributed sys
 </tr>
 </table>
 
+### Now playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqpj5go5h5rdtxw3xul6fgbwza&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false)](https://open.spotify.com/user/31jqpj5go5h5rdtxw3xul6fgbwza)
+
+</div>
+
 ### GitHub stats
 
 <div align="center">
@@ -70,8 +74,24 @@ I build things at the intersection of **finance**, **AI**, and **distributed sys
 
 </div>
 
+### Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
-  <sub>Sometimes the best commit message is just "trust me"</sub>
+
+<sub>Sometimes the best commit message is just "trust me"</sub>
+
+![Visitors](https://komarev.com/ghpvc/?username=MicrosoftWindows96&style=flat-square&color=58a6ff&label=profile+views)
+
 </div>
