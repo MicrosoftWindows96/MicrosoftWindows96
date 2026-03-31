@@ -28,15 +28,18 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 
 </div>
 
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqpj5go5h5rdtxw3xul6fgbwza&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false)](https://open.spotify.com/user/31jqpj5go5h5rdtxw3xul6fgbwza)
-
-</div>
-
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://open.spotify.com/user/31jqpj5go5h5rdtxw3xul6fgbwza"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jqpj5go5h5rdtxw3xul6fgbwza&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false" alt="Spotify" /></a>
+</td>
+<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicrosoftWindows96&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" />
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ![MicrosoftWindows96's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicrosoftWindows96&theme=github_dark)
 
