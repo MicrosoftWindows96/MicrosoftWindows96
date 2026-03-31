@@ -52,7 +52,7 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MicrosoftWindows96&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MicrosoftWindows96&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&custom_title=%20" alt="Activity Graph" width="100%" />
 </td>
 <td align="center" width="50%">
 <picture>
@@ -75,5 +75,3 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 </div>
-
- 
