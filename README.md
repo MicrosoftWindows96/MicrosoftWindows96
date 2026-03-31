@@ -14,7 +14,7 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 
 🤖 AI Products &nbsp;·&nbsp; 🏦 Fintech & DeFi &nbsp;·&nbsp; 🌐 Distributed Systems &nbsp;·&nbsp; 🔐 Security &nbsp;·&nbsp; λ Haskell
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MicrosoftWindows96&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=MicrosoftWindows96&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
