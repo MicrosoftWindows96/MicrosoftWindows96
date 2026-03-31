@@ -41,7 +41,7 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<a href="https://open.spotify.com/user/31jqpj5go5h5rdtxw3xul6fgbwza"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jqpj5go5h5rdtxw3xul6fgbwza&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false" alt="Spotify" width="100%" /></a>
+<a href="https://open.spotify.com/user/31jqpj5go5h5rdtxw3xul6fgbwza"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jqpj5go5h5rdtxw3xul6fgbwza&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false" alt="Spotify" width="100%" /></a>
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicrosoftWindows96&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
