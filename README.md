@@ -16,12 +16,24 @@ I build things at the intersection of **finance**, **AI**, and **distributed sys
 
 ### What I work with
 
-```
-Languages        Java  ·  TypeScript  ·  Haskell  ·  Solidity  ·  Python
-Frameworks       Next.js  ·  React  ·  Tailwind CSS  ·  Node.js
-Data & Cloud     Azure  ·  SQL  ·  LaTeX  ·  Prisma
-Interests        Fintech  ·  Distributed Systems  ·  Cyber Security  ·  AI/ML
-```
+**Languages**\
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Tools**\
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cloud & Data**\
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Selected projects
 
@@ -38,8 +50,9 @@ Interests        Fintech  ·  Distributed Systems  ·  Cyber Security  ·  AI/ML
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MicrosoftWindows96&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicrosoftWindows96&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=6" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MicrosoftWindows96&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" />
+
+![MicrosoftWindows96's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicrosoftWindows96&theme=github_dark)
 
 </div>
 
