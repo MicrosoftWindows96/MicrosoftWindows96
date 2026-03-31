@@ -39,17 +39,20 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 </tr>
 </table>
 
-<div align="center">
-
-![MicrosoftWindows96's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicrosoftWindows96&theme=github_dark)
-
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicrosoftWindows96&theme=github_dark" alt="GitHub profile summary" />
+</td>
+<td align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MicrosoftWindows96/MicrosoftWindows96/output/github-snake.svg" />
 </picture>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
