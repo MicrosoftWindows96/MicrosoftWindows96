@@ -75,3 +75,4 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 </div>
+
