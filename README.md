@@ -35,16 +35,30 @@ I build things at the intersection of **finance**, **AI**, and **distributed sys
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Selected projects
+### What I'm into right now
 
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| **[Starling Bank Round-Up](https://github.com/MicrosoftWindows96/Starling-Bank-Round-Up)** | Java | Integrates with the Starling API to automatically round up transactions and sweep spare change into savings goals |
-| **[FreeBank](https://github.com/MicrosoftWindows96/FreeBank-final)** | TypeScript, Solidity | Decentralised banking application built on smart contracts — my thesis project |
-| **[Distributed File System](https://github.com/MicrosoftWindows96/Distributed-File-System)** | Java | A distributed file system exploring replication, fault tolerance, and consistency |
-| **[Runway Redeclaration Tool](https://github.com/MicrosoftWindows96/Runway-Redeclaration-Tool)** | Java | Software engineering project — calculates safe landing parameters for reconfigured runways |
-| **[COVID-19 Database](https://github.com/MicrosoftWindows96/COVID-19-Database)** | LaTeX, Shell | Data management and analysis of pandemic datasets |
-| **[Cyber Security Attack Analysis](https://github.com/MicrosoftWindows96/Cyber-Security-Attack-Analysis)** | — | Deep-dive analysis of a real-world cyber attack |
+<table>
+<tr>
+<td width="60" align="center">🤖</td>
+<td><strong>AI-powered products</strong> — building intelligent tools that solve real problems in the public sector</td>
+</tr>
+<tr>
+<td width="60" align="center">🏦</td>
+<td><strong>Fintech & DeFi</strong> — from banking APIs to smart contracts, making finance more accessible</td>
+</tr>
+<tr>
+<td width="60" align="center">🌐</td>
+<td><strong>Distributed systems</strong> — fault tolerance, replication, and the art of making things not fall over</td>
+</tr>
+<tr>
+<td width="60" align="center">🔐</td>
+<td><strong>Security research</strong> — attack analysis, threat modelling, and keeping systems honest</td>
+</tr>
+<tr>
+<td width="60" align="center">λ</td>
+<td><strong>Functional programming</strong> — Haskell enthusiast, because why make things easy</td>
+</tr>
+</table>
 
 ### GitHub stats
 
