@@ -72,7 +72,7 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 
 <div align="center">
 
-<sub>Sometimes the best commit message is just "trust me"</sub>
+<sub>Sometimes the best commit message is "fixed"</sub>
 
 <br>
 
