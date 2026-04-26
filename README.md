@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=Hey%2C+I'm+Zagrosi;AI+Product+Engineer" alt="Typing SVG" /></a>
 
-AI Product Engineer at **One City Global** · Building at the intersection of finance, AI, and distributed systems
+AI Product Engineer at **One City Global**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fzgrs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zgrs)
 
@@ -37,8 +37,6 @@ AI Product Engineer at **One City Global** · Building at the intersection of fi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-🤖 AI Products &nbsp;·&nbsp; 🏦 Fintech & DeFi &nbsp;·&nbsp; 🌐 Distributed Systems &nbsp;·&nbsp; 🔐 Security &nbsp;·&nbsp; λ Haskell
 
 ---
 
