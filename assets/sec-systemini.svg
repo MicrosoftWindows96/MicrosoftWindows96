@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 36" width="1000" height="36">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000080"/>
+      <stop offset="1" stop-color="#1084d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="36" fill="#c0c0c0"/>
+  <rect x="2" y="2" width="996" height="32" fill="url(#t)"/>
+  <rect x="0" y="0" width="1000" height="1" fill="#ffffff"/>
+  <rect x="0" y="0" width="1" height="36" fill="#ffffff"/>
+  <rect x="0" y="35" width="1000" height="1" fill="#000000"/>
+  <rect x="999" y="0" width="1" height="36" fill="#000000"/>
+  <rect x="1" y="1" width="998" height="1" fill="#dfdfdf"/>
+  <rect x="1" y="1" width="1" height="34" fill="#dfdfdf"/>
+  <rect x="1" y="34" width="998" height="1" fill="#808080"/>
+  <rect x="998" y="1" width="1" height="34" fill="#808080"/>
+
+  <text x="20" y="23" font-family="Tahoma,Verdana,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="2">⚙  SYSTEM.INI</text>
+
+  <g transform="translate(920, 8)">
+    <rect width="20" height="20" fill="#c0c0c0"/>
+    <rect width="20" height="1" fill="#ffffff"/>
+    <rect width="1" height="20" fill="#ffffff"/>
+    <rect y="19" width="20" height="1" fill="#000000"/>
+    <rect x="19" width="1" height="20" fill="#000000"/>
+    <text x="10" y="14" font-family="Tahoma,Verdana,sans-serif" font-size="10" font-weight="700" fill="#000" text-anchor="middle">_</text>
+  </g>
+  <g transform="translate(944, 8)">
+    <rect width="20" height="20" fill="#c0c0c0"/>
+    <rect width="20" height="1" fill="#ffffff"/>
+    <rect width="1" height="20" fill="#ffffff"/>
+    <rect y="19" width="20" height="1" fill="#000000"/>
+    <rect x="19" width="1" height="20" fill="#000000"/>
+    <rect x="6" y="6" width="8" height="8" fill="none" stroke="#000" stroke-width="1.2"/>
+  </g>
+  <g transform="translate(968, 8)">
+    <rect width="20" height="20" fill="#c0c0c0"/>
+    <rect width="20" height="1" fill="#ffffff"/>
+    <rect width="1" height="20" fill="#ffffff"/>
+    <rect y="19" width="20" height="1" fill="#000000"/>
+    <rect x="19" width="1" height="20" fill="#000000"/>
+    <text x="10" y="15" font-family="Tahoma,Verdana,sans-serif" font-size="14" font-weight="700" fill="#000" text-anchor="middle">×</text>
+  </g>
+</svg>

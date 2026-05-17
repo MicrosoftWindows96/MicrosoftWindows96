@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- DB cylinder -->
+  <ellipse cx="8" cy="3" rx="5" ry="1.6" fill="none" stroke="#c0c0c0" stroke-width="1.2"/>
+  <path d="M3 3 L3 13 A5 1.6 0 0 0 13 13 L13 3" fill="none" stroke="#c0c0c0" stroke-width="1.2"/>
+  <ellipse cx="8" cy="7" rx="5" ry="1.6" fill="none" stroke="#c0c0c0" stroke-width="1"/>
+  <ellipse cx="8" cy="10" rx="5" ry="1.6" fill="none" stroke="#c0c0c0" stroke-width="1"/>
+</svg>
